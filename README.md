@@ -1,4 +1,9 @@
-### Hi there 👋
+
+ <a href="https://twitter.com/JowardBince"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=A4C2B1&label=JBince&logo=Twitter&logoColor=A4C2B1&style=for-the-badge&url=https://twitter.com/JowardBince">
+  <a href="https://github.com/JBince"><img src="https://img.shields.io/github/followers/Jbince?color=A4C2B1&logoColor=A4C2B1&logo=github&style=for-the-badge">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jbince&show_icons=true&theme=dark" width="380">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbince&layout=compact&theme=dark" width="380">
 
 <!--
 **JBince/JBince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
